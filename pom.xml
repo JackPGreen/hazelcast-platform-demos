@@ -226,11 +226,6 @@
 			</dependency>
 			<dependency>
 				<groupId>com.hazelcast</groupId>
-				<artifactId>hazelcast-enterprise-java-client</artifactId>
-				<version>${hazelcast-client.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>com.hazelcast</groupId>
 				<artifactId>hazelcast-mapstore</artifactId>
 				<version>${hazelcast.version}</version>
 			</dependency>
